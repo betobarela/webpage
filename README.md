@@ -14,6 +14,19 @@
 - Several more works available online.
 
 ## Projects
+
+### Brazilian 2022 Elections
+
+Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. The 
+
+### Multilayer backpropagating neural network in Mathematica
+
+Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. The 
+
+### Higgs statistics
+
+Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. The 
+
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
