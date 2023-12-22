@@ -52,10 +52,9 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-M.W. Barela and V. Pleitez, Trimuon production at the lhc, Phys. Rev. D 101(2020) 015024.
+M.W. Barela and V. Pleitez, _Trimuon production at the lhc_, [Phys. Rev. D 101(2020) 015024](https://doi.org/10.1103/PhysRevD.101.015024).
 
 M.W. Barela and J. Montaño Domínguez, Constraints on exotic particle masses
-from flavor violating charged lepton decays and the role of interference, Phys.Rev. D 106 (2022) 055013.
+from flavor violating charged lepton decays and the role of interference, [Phys.Rev. D 106 (2022) 055013](https://doi.org/10.1103/PhysRevD.106.055013).
 
-Several additional works available online can be found in the author’s Inspire page:
-https://inspirehep.net/authors/1983519
+Several additional works available online can be found in the author’s [Inspire page](https://inspirehep.net/authors/1983519)
