@@ -3,6 +3,16 @@
 #### Python, Data Science Tools (scikit-learn, pandas, matplotlib), SQL, Mathematica, Latex, Mathematics and Statistics
 
 ## Education
+<style>
+  table {
+    border-collapse: collapse;
+  }
+
+  th, td {
+    border: none;
+  }
+</style>
+
 <table>
   <tr>
     <th style="text-align: right;">Ph.D., Physics</th>
