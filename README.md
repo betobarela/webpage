@@ -27,6 +27,8 @@ Used Python, Pandas and Scikit-learn to produce a regression model that predicts
 
 Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. The 
 
+![Higgs Money Plot](/assets/img/Higgs_Money_Plot.png)
+
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
