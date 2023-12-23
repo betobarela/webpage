@@ -3,18 +3,11 @@
 #### Python, Data Science Tools (scikit-learn, pandas, matplotlib), SQL, Mathematica, Latex, Mathematics and Statistics
 
 ## Education
-- <div style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="flex: 1; text-align: left;">Ph.D., Physics</span>
-  <span style="flex: 1; margin-left: 2em;">| <i>São Paulo State University (_Current_)</i></span>
-  </div>
-- <div style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="flex: 1; text-align: left;">M.S., Physics</span>
-  <span style="flex: 1; margin-left: 2em;">| <i>São Paulo State University (_Feb 2020_)</i></span>
-  </div>
-- <div style="display: flex; justify-content: space-between; align-items: center;">
-  <span style="flex: 1; text-align: left;">B.S., Physics</span>
-  <span style="flex: 1; margin-left: 2em;">| <i>Federal University of Paraná (_Dec 2017_)</i></span>
-  </div>
+<pre>
+- Ph.D., Physics              | São Paulo State University (_Current_)								       		
+- M.S., Physics               | São Paulo State University (_Feb 2020_)	 			        		
+- B.S., Physics               | Federal University of Paraná (_Dec 2017_)
+</pre>
 
 ## Work Experience
 **Theoretical Physicist @ São Paulo State University (_March 2018 - Present_)**
