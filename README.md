@@ -27,7 +27,9 @@ Used Python, Pandas and Scikit-learn to produce a regression model that predicts
 
 Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. The 
 
-<img src="/assets/img/Higgs_Money_Plot.png" alt="Higgs Money Plot" width="44%" style="display: block; margin: auto;" />
+<p align="center">
+  <img src="/assets/img/Higgs_Money_Plot.png" alt="Higgs Money Plot" width="44%" />
+</p>
 
 ## Publications
 M.W. Barela and V. Pleitez, _Trimuon production at the lhc_, [Phys. Rev. D 101(2020) 015024](https://doi.org/10.1103/PhysRevD.101.015024).
