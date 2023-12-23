@@ -37,7 +37,7 @@ Used Python, Pandas and Scikit-learn to produce a regression model that predicts
 ### Higgs statistics
 
 Utilized the Higgs search (which led to one of the greatest achievements in the history of science) to illustrate a lesson in statistics. The project's execution consisted of several steps:
-  - _Simulation_: this is the stage in which major physics was needed. We focused only on the di-gamma end state. Without getting into any of the technical details, we utilized bash scripting to run the HEP package MadGraph as needed and generate $10^6$ background events (SM without Higgs) at each invariant mass; $10^6$ signal events (with unknown Higgs mass); and, to emulate the observed line, generated more $10^6$ events for each bin of the gamma-gamma invariant mass with a fixed Higgs mass of 125 GeV. 
+  - _Simulation_: this is the stage in which major physics was needed. We focused only on the di-gamma end state. Without getting into any of the technical details, we utilized bash scripting to run the HEP package MadGraph as needed and generate $10^6$ background events (SM without Higgs) at each invariant mass; $10^6$ signal events (with unknown Higgs mass); and, to emulate the observed line, generated more $10^6$ events for each bin of the $\gamma\gamma$ invariant mass with a fixed Higgs mass of 125 GeV. 
 
 
 <p align="center">
