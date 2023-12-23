@@ -3,27 +3,17 @@
 #### Python, Data Science Tools (scikit-learn, pandas, matplotlib), SQL, Mathematica, Latex, Mathematics and Statistics
 
 ## Education
-<style>
-  table {
-    border-collapse: collapse;
-  }
-
-  th, td {
-    border: none;
-  }
-</style>
-
-<table>
+<table style="border-collapse: collapse;">
   <tr>
-    <th style="text-align: right;">Ph.D., Physics</th>
+    <th style="text-align: right; border: none;">Ph.D., Physics</th>
     <td>&amp;| São Paulo State University (_Current_)</td>
   </tr>
   <tr>
-    <th style="text-align: right;">M.S., Physics</th>
+    <th style="text-align: right; border: none;">M.S., Physics</th>
     <td>&amp;| São Paulo State University (_Feb 2020_)</td>
   </tr>
   <tr>
-    <th style="text-align: right;">B.S., Physics</th>
+    <th style="text-align: right; border: none;">B.S., Physics</th>
     <td>&amp;| Federal University of Paraná (_Dec 2017_)</td>
   </tr>
 </table>
