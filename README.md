@@ -4,7 +4,7 @@
 
 ## Education
 - Ph.D., Physics&nbsp;| São Paulo State University (_Current_)								       		
-- M.S., Physics&nbsp;&nbsp;&nbsp;&nbsp;| São Paulo State University (_Feb 2020_)	 			        		
+- M.S., Physics&nbsp;&nbsp;&nbsp;| São Paulo State University (_Feb 2020_)	 			        		
 - B.S., Physics&nbsp;&nbsp;&nbsp;&nbsp;| Federal University of Paraná (_Dec 2017_)
 
 ## Work Experience
