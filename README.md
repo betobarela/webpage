@@ -32,11 +32,12 @@ Used Python, Pandas and Scikit-learn to produce a regression model that predicts
 
 ### Multilayer backpropagating neural network in Mathematica
 
-Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. The 
+Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. The project's execution consisted of several steps:
+-- Simulation: this is the stage in which major physics was needed. We focused only on the di-gamma end state. Without getting into any of the technical details, we utilized bash scripting to run the HEP package MadGraph as needed and generate 10^6 background events (SM without Higgs) at each invariant mass; 10^6 signal events (with unknown Higgs mass); and, to emulate the observed line, generated more 10^6 events for each bin of the gamma-gamma invariant mass with a fixed Higgs mass of 125 GeV. 
 
 ### Higgs statistics
 
-Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. The 
+Utilized the Higgs search (which led to one of the greatest achievements in the history of science) to illustrate a lesson in statistics. We first generated  
 
 <p align="center">
   <img src="https://github.com/betobarela/webpage/blob/main/assets/img/Higgs_Money_Plot.png?raw=true" width="64%" />
