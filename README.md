@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, Data Science Tools (scikit-learn, pandas, matplotlib), SQL, Mathematica, Latex, Mathematics and Statistics
+#### Python, Data Science Tools (scikit-learn, pandas, matplotlib), SQL, Mathematica, Latex, Mathematics and Statistics
 
 ## Education
 - Ph.D., Physics&nbsp;| São Paulo State University (_Current_)								       		
