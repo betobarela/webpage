@@ -6,15 +6,15 @@
 <table style="border-collapse: collapse;">
   <tr>
     <th style="text-align: right; border: none;">Ph.D., Physics</th>
-    <td>&amp;| São Paulo State University (_Current_)</td>
+    <td> São Paulo State University (<i>Current</i>)</td>
   </tr>
   <tr>
     <th style="text-align: right; border: none;">M.S., Physics</th>
-    <td>&amp;| São Paulo State University (_Feb 2020_)</td>
+    <td> São Paulo State University (<i>Feb 2020</i>)</td>
   </tr>
   <tr>
     <th style="text-align: right; border: none;">B.S., Physics</th>
-    <td>&amp;| Federal University of Paraná (_Dec 2017_)</td>
+    <td> Federal University of Paraná (<i>Dec 2017</i>)</td>
   </tr>
 </table>
 
