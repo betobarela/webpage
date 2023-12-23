@@ -5,15 +5,15 @@
 ## Education
 <table style="border-collapse: collapse;">
   <tr>
-    <th style="text-align: right; border: none !important;">Ph.D., Physics</th>
+    <th style="text-align: right; border: none;">Ph.D., Physics</th>
     <td>&amp;| São Paulo State University (_Current_)</td>
   </tr>
   <tr>
-    <th style="text-align: right; border: none !important;">M.S., Physics</th>
+    <th style="text-align: right; border: none;">M.S., Physics</th>
     <td>&amp;| São Paulo State University (_Feb 2020_)</td>
   </tr>
   <tr>
-    <th style="text-align: right; border: none !important;">B.S., Physics</th>
+    <th style="text-align: right; border: none;">B.S., Physics</th>
     <td>&amp;| Federal University of Paraná (_Dec 2017_)</td>
   </tr>
 </table>
