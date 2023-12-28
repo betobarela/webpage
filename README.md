@@ -37,13 +37,13 @@ Used Python, Pandas and Scikit-learn to produce a regression model that predicts
 ### Higgs statistics
 [Project's page](https://github.com/betobarela/Higgs-discovery-di-gamma)
 
-Utilized the Higgs search (which led to one of the greatest achievements in the history of science) to illustrate a lesson in statistics. The project's execution consisted of several steps:
-  1. _Simulation_: this is the stage in which major physics was needed. We focused only on the di-gamma end state. Without getting into much of the technical details, we utilized bash scripting to run MadGraph as needed and generate <span>10<sup>6</sup></span> background events (SM without Higgs) at each invariant mass; <span>10<sup>6</sup></span> signal events (with unknown Higgs mass); and, to emulate the observed line, generated more <span>10<sup>6</sup></span> events for each bin of the &gamma;&gamma; invariant mass with assuming a 125 GeV Higgs. The model is implemented into MadGraph through a UFO generated with the help of FeynArts, and the implementation of the NLO effective H&gamma;&gamma; vertex is taken from from the [FeynRules model database](https://feynrules.irmp.ucl.ac.be/wiki/ModelDatabaseMainPage). 
-
+Utilized the Higgs search (which culminated in one of the greatest achievements in the history of science) to illustrate a lesson in statistics. The project's execution consisted of several steps, whose major ones were the simulation, statistics and the visualization of results. The main goal of the project was to obtain the exclusion contour over the Higgs mass and the signal strength using the modified frequentist confidence level, which appears below
 
 <p align="center">
   <img src="https://github.com/betobarela/webpage/blob/main/assets/img/Higgs_Money_Plot.png?raw=true" width="64%" />
 </p>
+
+A more detailed description of the process appears in the page of the project.
 
 ## Publications
 M.W. Barela and V. Pleitez, _Trimuon production at the lhc_, [Phys. Rev. D 101(2020) 015024](https://doi.org/10.1103/PhysRevD.101.015024).
