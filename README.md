@@ -32,7 +32,7 @@ Used Python, Pandas and Scikit-learn to produce a regression model that predicts
 
 ### Multilayer backpropagating neural network in Mathematica
 
-Wrote a brute force Neural Network algorithm in Mathematica
+Wrote a brute force Neural Network algorithm in Mathematica. The code is still rudimentary, and several efficiency improvements must be performed. The code is checked in its current form on the binary logical operators. 
 
 ### Higgs statistics
 [Project's page](https://github.com/betobarela/Higgs-discovery-di-gamma)
