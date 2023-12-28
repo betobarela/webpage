@@ -32,7 +32,7 @@ Used Python, Pandas and Scikit-learn to produce a regression model that predicts
 
 ### Multilayer backpropagating neural network in Mathematica
 
-Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. 
+Wrote a brute force Neural Network algorithm in Mathematica
 
 ### Higgs statistics
 [Project's page](https://github.com/betobarela/Higgs-discovery-di-gamma)
