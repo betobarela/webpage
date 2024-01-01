@@ -28,7 +28,7 @@
 
 ### Brazilian 2022 Elections
 
-Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. Achieved a model with a score of 0.85 and an average absolute error of 5%. The input data is manually scraped from the [IBGE page](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html), and is comprised by 
+Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. Achieved a model with a score of 0.85 and an average absolute error of 5%. The input data is manually scraped from the [IBGE page](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html).
 
 ### Multilayer backpropagating neural network in Mathematica
 [Project's page](https://github.com/betobarela/NN-in-Mathematica)
