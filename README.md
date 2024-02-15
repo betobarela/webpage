@@ -39,6 +39,12 @@ Feature importances are strongly connected to the coefficients of the polynomial
   <img src="https://github.com/betobarela/webpage/blob/main/assets/img/feature_importances.png?raw=true" width="90%" />
 </p>
 
+From the plot above, we may choose eight among the most important features to visualize their combined influence on the predicted rating for Candidate 1, as below
+
+<p align="center">
+  <img src="https://github.com/betobarela/webpage/blob/main/assets/img/correlations.png?raw=true" width="90%" />
+</p>
+
 ### Multilayer backpropagating neural network in Mathematica
 [Project's page](https://github.com/betobarela/NN-in-Mathematica)
 
