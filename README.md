@@ -34,9 +34,9 @@ Used Python, Pandas and Scikit-learn to produce a regression model that predicts
   <img src="https://github.com/betobarela/webpage/blob/main/assets/img/error_population_plot.png?raw=true" width="64%" />
 </p>
 
-Feature importances are strongly connected to the coefficients of the  
+Feature importances are strongly connected to the coefficients of the polynomial model, which can be visualized below  
 <p align="center">
-  <img src="https://github.com/betobarela/webpage/blob/main/assets/img/feature_importances.png?raw=true" width="80%" />
+  <img src="https://github.com/betobarela/webpage/blob/main/assets/img/feature_importances.png?raw=true" width="90%" />
 </p>
 
 ### Multilayer backpropagating neural network in Mathematica
