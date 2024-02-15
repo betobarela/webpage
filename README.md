@@ -42,7 +42,7 @@ Feature importances are strongly connected to the coefficients of the polynomial
 From the plot above, we may choose eight among the most important features to visualize their combined influence on the predicted rating for Candidate 1, as below
 
 <p align="center">
-  <img src="https://github.com/betobarela/webpage/blob/main/assets/img/correlations.png?raw=true" width="90%" />
+  <img src="https://github.com/betobarela/webpage/blob/main/assets/img/correlations.png?raw=true" width="100%" />
 </p>
 
 ### Multilayer backpropagating neural network in Mathematica
