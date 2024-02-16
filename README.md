@@ -21,7 +21,7 @@
 ## Work Experience
 **Theoretical Physicist @ São Paulo State University (_March 2018 - Present_)**
 - Currently leader of two research projects and member of a third one;
-- Author of two papers published on highly ranked journals in the area;
+- Author of four papers published on highly ranked journals in the area;
 - Several more works available online.
 
 ## Projects
