@@ -67,8 +67,8 @@ M.W. Barela and V. Pleitez, _Trimuon production at the lhc_, [Phys. Rev. D 101(2
 M.W. Barela and J. Montaño Domínguez, _Constraints on exotic particle masses
 from flavor violating charged lepton decays and the role of interference_, [Phys.Rev. D 106 (2022) 055013](https://doi.org/10.1103/PhysRevD.106.055013).
 
-M.W. Barela and R. Capdevilla, _Di-Higgs Signatures in Neutral Naturalness_, [Journal of High Energy Physics (to appear)](https://arxiv.org/pdf/2310.09403.pdf).
+M.W. Barela and R. Capdevilla, _Di-Higgs Signatures in Neutral Naturalness_, [J. High Energ. Phys. 2024, 50 (2024)](https://doi.org/10.1007/JHEP02(2024)050).
 
-M.W. Barela, _On the 3-3-1 Landau pole_, [Nuclear Physics B (to appear)](https://arxiv.org/pdf/2305.05066.pdf).
+M.W. Barela, _On the 3-3-1 Landau pole_, [Nuclear Physics, Section B, 116475 (2024)](https://doi.org/10.1016/j.nuclphysb.2024.116475).
 
 Several additional works available online can be found in the author’s [Inspire page](https://inspirehep.net/authors/1983519)
