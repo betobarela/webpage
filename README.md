@@ -9,11 +9,11 @@
     <td> São Paulo State University (<i>Current</i>)</td>
   </tr>
   <tr>
-    <th style="text-align: right; border: none;">M.S., Physics</th>
+    <th style="text-align: right; border: none;">M.Sc., Physics</th>
     <td> São Paulo State University (<i>Feb 2020</i>)</td>
   </tr>
   <tr>
-    <th style="text-align: right; border: none;">B.S., Physics</th>
+    <th style="text-align: right; border: none;">B.Sc., Physics</th>
     <td> Federal University of Paraná (<i>Dec 2017</i>)</td>
   </tr>
 </table>
