@@ -29,7 +29,7 @@
 ### Brazilian 2022 Elections
 
 Used Python, Pandas and Scikit-learn to produce a regression model that predicts the ratings of the presidential candidates in the second round of the 2022 Brazilian Elections. Each city is an instance and the features are comprised by socioeconomical data from the last census manually scraped from the [IBGE page](https://www.ibge.gov.br/estatisticas/downloads-estatisticas.html). The winning estimator is a simple squared model on the more than 40 numerical features plus one 26-classes categorical one (the state feature). ElasticNet is the ansatz for regularization, with an l1-ratio of 0.736 and a regularization strenght &alpha; of 
- tes test <span>2<span class="superscript">3</span> = 8</span> test test <span style="display:inline-block;">$6.9 \times 10^{-4}$</span>. The model presents a score of around 0.85 and an average error that, cast as a distribution of the average population, can be seen below 
+ tes test <span>6.9 x 10 <sup>-4</sup></span>. The model presents a score of around 0.85 and an average error that, cast as a distribution of the average population, can be seen below 
 <p align="center">
   <img src="https://github.com/betobarela/webpage/blob/main/assets/img/error_population_plot.png?raw=true" width="64%" />
 </p>
