@@ -48,7 +48,7 @@ From the plot above, we may choose eight among the most important features to vi
 ### Multilayer backpropagating neural network in Mathematica
 [Project's page](https://github.com/betobarela/NN-in-Mathematica)
 
-Wrote a brute force Neural Network algorithm in Mathematica. The code is still rudimentary, and several efficiency improvements must be performed. The code is checked in its current form on the binary logical operators. 
+This project is a very simple endeavor whose goal is to get hands-on familiarity with the algorithm of backpropagating Artificial Neural Networks, i.e., the multilayer perceptron. We implement minibatch segmentation and allow for arbitrary architecture (of dense layers, of course). Code is provided in two different languages: Python and Wolfram Mathematica. The version in Python is much more efficient.
 
 ### Higgs statistics
 [Project's page](https://github.com/betobarela/Higgs-discovery-di-gamma)
