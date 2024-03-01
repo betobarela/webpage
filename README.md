@@ -46,6 +46,11 @@ From the plot above, we may choose eight among the most important features to vi
   <img src="https://github.com/betobarela/webpage/blob/main/assets/img/correlations.png?raw=true" width="100%" />
 </p>
 
+### Same problem but with Deep Learning!
+[Project's page](https://github.com/betobarela/Elections-2022-DL)
+
+Explored the same problem above, but now with the help of TensorFlow, Keras and Hyperopt.
+
 ### Multilayer backpropagating neural network in Mathematica
 [Project's page](https://github.com/betobarela/NN-in-Mathematica)
 
