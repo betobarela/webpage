@@ -6,7 +6,7 @@
 <table style="border-collapse: collapse;">
   <tr>
     <th style="text-align: right; border: none;">Ph.D., Physics</th>
-    <td> São Paulo State University (<i>Current</i>)</td>
+    <td> São Paulo State University (<i>Mar 2024</i>)</td>
   </tr>
   <tr>
     <th style="text-align: right; border: none;">M.Sc., Physics</th>
@@ -20,9 +20,14 @@
 
 ## Work Experience
 **Theoretical Physicist @ São Paulo State University (_March 2018 - Present_)**
-- Currently leader of two research projects and member of a third one;
+- Leader of two research projects and member of a third one;
 - Author of four papers published on highly ranked journals in the field;
 - Several more works available online.
+
+**Data Scientist @ Bradesco (_March 2018 - Present_)**
+- Data Scientist focused on modelling;
+- Work in Client Satisfaction;
+- Experience in modelling, advanced analysis, feature engineering, production of studies and storytelling/presentation.
 
 ## Projects
 
